@@ -42,8 +42,8 @@
 ## 📈  GitHub Estatísticas:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicyusAbreu&amp;count_private=true&amp;theme=radical&amp;show_icons=true">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinicyusAbreu&layout=compact&langs_count=8&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinicyusAbreu&amp;count_private=true&amp;theme=radical&amp;show_icons=true">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinicyusAbreu&layout=compact&langs_count=8&theme=radical"/>
 
 </p>
 
