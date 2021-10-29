@@ -24,7 +24,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F89829?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1E425F?style=for-the-badge&logo=python&logoColor=white)
-![mySQL](https://img.shields.io/badge/mySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=black)
+![mySQL](https://img.shields.io/badge/mySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black)
 
 ### 💻 Bibltiotecas e Frameworks:
 ![Django](https://img.shields.io/badge/Django-0c4a32?style=for-the-badge&logo=django&logoColor=white)
