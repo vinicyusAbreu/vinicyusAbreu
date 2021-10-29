@@ -46,6 +46,3 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinicyusAbreu&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
-<p align="center">
-  <img width="100%" height="300em" src="https://pa1.narvii.com/7482/f2ebad5cccd8f28b502ff69e79131121d9b6626er1-480-270_hq.gif"/>
-</p>
