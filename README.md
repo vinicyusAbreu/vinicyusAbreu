@@ -1,5 +1,5 @@
 # Olá, eu sou o Vinicius 👨‍💻! Que bom ver você por aqui! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
-
+<img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
 ## 👨🏻‍💻 &nbsp;Sobre mim:
 📝 &nbsp;Eu sou um desenvolvedor front-end, eu gosto de desenvolver sistemas web, e continuar estudando para me tornar um desenvolvedor melhor.\
