@@ -9,7 +9,7 @@
 
 ## 🤝🏻 &nbsp;Fale comigo:
 <p >
-  <a href="vinicius.massena@soulasalle.com.br">
+  <a href="mailto:vinicius.massena@soulasalle.com.br">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a> 
   <a href="https://www.instagram.com/viniciusabreu550/">
@@ -44,7 +44,6 @@
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinicyusAbreu&amp;count_private=true&amp;theme=radical&amp;show_icons=true">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinicyusAbreu&layout=compact&langs_count=8&theme=radical"/>
-
 </p>
 
 <p align="center">
