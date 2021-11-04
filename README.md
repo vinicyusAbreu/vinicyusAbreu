@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
 ## 👨🏻‍💻 &nbsp;Sobre mim:
-📝 &nbsp;Eu sou um desenvolvedor front-end, em busca de novos desafios.\
+📝 &nbsp;Eu sou um desenvolvedor front-end iniciante, em busca de novos desafios.\
 🎓 &nbsp;Cursando bacharelado em Engenharia de Software na Universidade de Vassouras (FUSVE).\
 📚 &nbsp;Estudando e aprendendo sobre tecnologias web.\
 ✍ &nbsp;Em meu tempo livre sou um cinéfilo e um "Sommelier" de anime.
