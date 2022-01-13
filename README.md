@@ -34,6 +34,7 @@
 
 ### 🧑🏻‍💻 Ferramentas e Plataformas:
 ![Git](https://img.shields.io/badge/Git-F64D27?style=for-the-badge&logo=git&logoColor=white)
+![Npm](https://img.shields.io/badge/Npm-C43031?style=for-the-badge&logo=npm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-22A6F1?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
