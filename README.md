@@ -22,15 +22,16 @@
 ### 🚀 Linguagens:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F89829?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-1E425F?style=for-the-badge&logo=python&logoColor=white)
-![mySQL](https://img.shields.io/badge/mySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![mySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 💻 Bibliotecas e Frameworks:
-![Django](https://img.shields.io/badge/Django-0c4a32?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![sqlite](https://img.shields.io/badge/sqlite-f5f5f5?style=for-the-badge&logo=sqlite&logoColor=black)
+![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🧑🏻‍💻 Ferramentas e Plataformas:
 ![Git](https://img.shields.io/badge/Git-F64D27?style=for-the-badge&logo=git&logoColor=white)
