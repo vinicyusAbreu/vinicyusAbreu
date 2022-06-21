@@ -1,4 +1,4 @@
-# Olá, eu sou o Vinicius 👨‍💻! Que bom ver você por aqui! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
+# Olá, eu sou o Vinicius 👨‍💻! Que bom ver você por aqui! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="20px">
 <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
 ## 👨🏻‍💻 &nbsp;Sobre mim:
