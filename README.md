@@ -1,10 +1,10 @@
 # Olá, eu sou o Vinicius 👨‍💻! Que bom ver você por aqui!
 
 ## 👨🏻‍💻 &nbsp;Sobre mim:
-📝 &nbsp;Eu sou um desenvolvedor web iniciante, em busca de novos desafios.\
-🎓 &nbsp;Cursando bacharelado em Engenharia de Software na Universidade de Vassouras (FUSVE).\
-📚 &nbsp;Estudando e aprendendo sobre tecnologias web.\
-✍ &nbsp;Em meu tempo livre sou um cinéfilo e um "Sommelier" de anime.
+🚀 Eu sou um desenvolvedor web iniciante, sempre em busca de novos desafios e oportunidades para crescer e evoluir minhas habilidades.
+🎓 Cursando bacharelado em Engenharia de Software na Universidade de Vassouras (FUSVE), onde estou adquirindo conhecimentos sólidos em fundamentos de programação e engenharia de software.
+📚 Continuamente estudando e me aprofundando em novas tecnologias web para estar sempre atualizado com as últimas tendências e ferramentas disponíveis no mercado.
+🎬 Em meu tempo livre, sou um cinéfilo apaixonado e um "Sommelier" de anime, adoro explorar e descobrir novos mundos através da sétima arte e animações japonesas.
 
 ## 🤝🏻 &nbsp;Fale comigo:
 <p >
