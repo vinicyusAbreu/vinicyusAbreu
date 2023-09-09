@@ -1,8 +1,8 @@
 # Olá, eu sou o Vinicius 👨‍💻! Que bom ver você por aqui!
 
 ## 👨🏻‍💻 &nbsp;Sobre mim:
-🚀 Eu sou um desenvolvedor web iniciante, sempre em busca de novos desafios e oportunidades para crescer e evoluir minhas habilidades.<br/>
-🎓 Cursando bacharelado em Engenharia de Software na Universidade de Vassouras (FUSVE), onde estou adquirindo conhecimentos sólidos em fundamentos de programação e engenharia de software.<br/>
+🚀 Eu sou um desenvolvedor web, sempre em busca de novos desafios e oportunidades para crescer e evoluir minhas habilidades.<br/>
+🎓 Formado em Engenharia de Software na Universidade de Vassouras (FUSVE), onde adquiri conhecimentos sólidos de programação e engenharia de software.<br/>
 📚 Continuamente estudando e me aprofundando em novas tecnologias web para estar sempre atualizado com as últimas tendências e ferramentas disponíveis no mercado.<br/>
 🎬 Em meu tempo livre, sou um cinéfilo apaixonado e um "Sommelier" de anime, adoro explorar e descobrir novos mundos através da sétima arte e animações japonesas.
 
@@ -31,10 +31,13 @@
 
 ### 💻 Bibliotecas e Frameworks:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![styled components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🧑🏻‍💻 Ferramentas e Plataformas:
